@@ -59,7 +59,7 @@
 
 5. Commit your changes using `git commit -m "<your-first-name>"`. For example, `git commit -m "joshua"`
 
-6. Push your changes to the remote repository using `git push origin <your-first-name>`. For example, `git push origin joshua`
+6. Push your changes to the remote repository using `git push origin <your-first-name>`. For example, `git push origin joshua` ######
 
 7. Open a pull request on GitHub
 
